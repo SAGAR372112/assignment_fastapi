@@ -1,0 +1,60 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Python packages
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.onnx
+
+# Output
+output/
+results/
+
+# Cache
+.cache/
+__pypackages__/
+
+# Unit test / coverage
+.pyt
